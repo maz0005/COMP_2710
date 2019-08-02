@@ -1,1 +1,1 @@
-Note that these projects were completed at an earlier time in my career and does not refelct my coding practices today.
+Note that these projects were completed at an earlier time in my career and does not refelct my coding practices today. For any employers, please refer to the 'inventory_project' respository which shows improved practices.
